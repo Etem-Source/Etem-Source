@@ -1,17 +1,15 @@
 <h1 align="center">👋 Hey there, I'm Etem!</h1>
 <h3 align="center">A passionate IT student interested in technology and innovation.</h3>
 
----
 
-### 🚀 About Me  
+## 🚀 About Me  
 - 🎓 I'm currently studying 
 - 🎯 My interests revolve around **Information Technology** and **software development**  
 - 🌱 Currently learning **C++**, **C#**, **Python**, and diving deeper into **software engineering**  
 - 💼 Open to opportunities that allow me to **grow my skills** and **collaborate** on cool projects  
 
----
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 Here are the technologies I work with:  
 
 - **Languages**:  
@@ -23,16 +21,15 @@ Here are the technologies I work with:
 - **Operating Systems**:  
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)  
 
----
-
-### 📈 My GitHub Stats  
+<!--
+## 📈 My GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Etem-Source&show_icons=true&theme=tokyonight" alt="[Etem]'s GitHub Stats" />
 </p>
+-->
 
----
 
-### 🌟 My Popular Repositories  
+## 🌟 My Popular Repositories  
 Here are a few projects I've worked on:  
 
 - 🔹 [**QT-Sql-RFID-Compte-Bancaire**](https://github.com/Etem-Source/QT-Sql-RFID-Compte-Bancaire)  
