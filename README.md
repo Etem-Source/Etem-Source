@@ -29,7 +29,7 @@ Here are the technologies I work with:
 -->
 
 
-## 🌟 My Popular Repositories  
+## 🌟 My Favorite Repositories  
 Here are a few projects I've worked on:  
 
 - 🔹 [**QT-Sql-RFID-Compte-Bancaire**](https://github.com/Etem-Source/QT-Sql-RFID-Compte-Bancaire)  
