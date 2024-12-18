@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm [firstname] [name]!</h1>
+<h1 align="center">👋 Hey there, I'm Etem!</h1>
 <h3 align="center">A passionate IT student interested in technology and innovation.</h3>
 
 ---
