@@ -35,6 +35,5 @@ Here are a few projects I've worked on:
 - 🔹 [**QT-Sql-RFID-Compte-Bancaire**](https://github.com/Etem-Source/QT-Sql-RFID-Compte-Bancaire)  
    A **Qt-based graphical interface project** in **C++** that integrates an **RFID system**. The RFID UID is stored in a **database** and linked to a bank account system for secure management.  
 
----
 
 <p align="center">Thanks for stopping by! 🚀</p>
