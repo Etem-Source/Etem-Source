@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hey there, I'm Etem!</h1>
-<h3 align="center">A passionate IT student interested in technology and innovation.</h3>
 
 
 ## 🚀 About Me  
